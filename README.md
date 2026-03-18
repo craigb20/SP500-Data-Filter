@@ -44,7 +44,8 @@ S&P 500 Data Filter
 - Filtering based on financial thresholds  
 - SQLite database integration  
 - Automated table creation and data insertion  
-- Formatted console output  
+- Formatted console output
+- Unit testing 
 
 ## Project Structure
 
@@ -63,12 +64,12 @@ SP500-Data-Filter/
 - Python programming  
 - File handling and CSV parsing  
 - Database management with SQLite  
-- SQL queries and data transformation  
+- SQL queries and data transformation
+- Implementation of unit tests 
 
 ## Future Improvements
  
-- Add data visualization (matplotlib)  
-- Implement unit tests  
+- Add data visualization (matplotlib)
 
 ## License
 
