@@ -53,6 +53,8 @@ SP500-Data-Filter/
 ├── main.py
 ├── sp500_data.csv
 ├── sp500_data_class.py
+├── test_database.py
+├── test_data_processing.py
 └── sp500_database.db (generated at runtime)
 ```
 
