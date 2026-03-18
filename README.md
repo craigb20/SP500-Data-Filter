@@ -49,7 +49,7 @@ S&P 500 Data Filter
 ## Project Structure
 
 ```
-.
+SP500-Data-Filter/
 ├── main.py
 ├── sp500_data.csv
 ├── sp500_data_class.py
