@@ -7,7 +7,7 @@ This Python project processes historical S&P 500 market data from a CSV file. Ea
 
 1. Ensure **Python 3.12** is installed on your system.
 2. Download or clone the repository and navigate to the project directory.
-3. No external dependencies are required — the project uses only Python standard libraries (`csv`, `sqlite3`).
+3. No external dependencies are required — the project uses only Python standard libraries (`csv`, `sqlite3`, `unittest`, and `io`).
 
 ## Usage
 
